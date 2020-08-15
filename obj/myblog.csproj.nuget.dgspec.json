@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/na/Documents/programming/Antar/dotnet/myblog/myblog.csproj": {}
+    "/Users/na/Documents/programming/Antar/dotnet/213motorrade/myblog.csproj": {}
   },
   "projects": {
-    "/Users/na/Documents/programming/Antar/dotnet/myblog/myblog.csproj": {
+    "/Users/na/Documents/programming/Antar/dotnet/213motorrade/myblog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/na/Documents/programming/Antar/dotnet/myblog/myblog.csproj",
+        "projectUniqueName": "/Users/na/Documents/programming/Antar/dotnet/213motorrade/myblog.csproj",
         "projectName": "myblog",
-        "projectPath": "/Users/na/Documents/programming/Antar/dotnet/myblog/myblog.csproj",
+        "projectPath": "/Users/na/Documents/programming/Antar/dotnet/213motorrade/myblog.csproj",
         "packagesPath": "/Users/na/.nuget/packages/",
-        "outputPath": "/Users/na/Documents/programming/Antar/dotnet/myblog/obj/",
+        "outputPath": "/Users/na/Documents/programming/Antar/dotnet/213motorrade/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/na/.nuget/NuGet/NuGet.Config"

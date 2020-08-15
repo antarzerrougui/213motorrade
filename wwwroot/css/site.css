@@ -1,12 +1,15 @@
-﻿/*!
+/*!
  * Start Bootstrap - The Big Picture (https://startbootstrap.com/templates/the-big-picture)
  * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-the-big-picture/blob/master/LICENSE)
  */
- body {
-  background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
+body {
+  background: url('https://static.mensup.fr/photo_article/187851/70136/1200-L-rcap.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  color: whitesmoke;
 }
+
+
